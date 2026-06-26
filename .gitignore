@@ -1,0 +1,28 @@
+# General ignores
+node_modules/
+vendor/
+*.log
+*.tmp
+*.cache
+.DS_Store
+
+# Ruby
+ruby/vendor/bundle
+
+# Node
+node/node_modules
+
+# Perl
+perl/local
+
+# .NET
+dotnet10/**/bin/
+dotnet10/**/obj/
+
+# Rust
+rust/target/
+
+# Go
+go/bin/
+
+temp/
