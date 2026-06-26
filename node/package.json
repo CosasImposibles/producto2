@@ -1,0 +1,10 @@
+{
+  "name": "soap-case-study",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "soap": "^1.0.0",
+    "@vitalets/google-translate-api": "^8.0.0",
+    "express": "^4.18.2"
+  }
+}
